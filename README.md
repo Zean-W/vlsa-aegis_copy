@@ -177,5 +177,5 @@ If you find the project helpful for your research, please consider citing our pa
 }
 ```
 ## Acknowledgment <a name="acknowledgment"></a>
-This project builds upon [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO), [RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002), and [MCC5-THU-Gearbox-Benchmark-Datasets
+This project builds upon [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO), [openpi](https://github.com/Physical-Intelligence/openpi), [RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002), and [MCC5-THU-Gearbox-Benchmark-Datasets
 ](https://github.com/liuzy0708/MCC5-THU-Gearbox-Benchmark-Datasets/tree/main). We thank these teams for their open-source contributions.
