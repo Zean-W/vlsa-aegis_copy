@@ -19,6 +19,7 @@
 
 ## 📢 Updates
 
+- **[Feb 17, 2026]** 🔜 The implementation of the **AEGIS** method is scheduled to be released in the coming days.
 - **[Dec 20, 2025]** 🎉 We have released the **SafeLIBERO benchmark**.
 - **[Dec 9, 2025]** 🔥 Initial release of the **vlsa-aegis** repository.
 
