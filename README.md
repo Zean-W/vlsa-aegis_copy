@@ -23,7 +23,7 @@
 - **[Dec 20, 2025]** 🎉 We have released the **SafeLIBERO benchmark**.
 - **[Dec 9, 2025]** 🔥 Initial release of the **vlsa-aegis** repository.
 
-<details>
+<details open>
 <summary>
   <h2 style="display:inline-block; margin:0;">📊 SafeLIBERO Benchmark</h2> 
   <a href="https://vlsa-aegis.github.io/benchmark.html"><img src="https://img.shields.io/badge/-Detailed_Overview-3776AB?logo=readthedocs&logoColor=white" alt="Detailed Overview"></a>
@@ -174,7 +174,7 @@ The following research works have utilized the **SafeLIBERO Benchmark** for expe
 
 </details> 
 
-<details>
+<details open>
 
 <summary>
   <h2 style="display:inline-block; margin:0;">🛡️ AEGIS Method</h2> 
