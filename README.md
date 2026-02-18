@@ -194,6 +194,8 @@ Please run the following commands in the given order to install the dependency f
 ```
 git clone https://github.com/THU-RCSCT/vlsa-aegis.git
 
+pip install uv
+
 cd vlsa-aegis
 uv venv --python 3.11 .aegis_venv
 source .aegis_venv/bin/activate
