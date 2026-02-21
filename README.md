@@ -24,10 +24,10 @@
   </tr>
   
   <tr align="center">
-    <td><small><b><span style="color: #d73a49;">❌ SAFETY ❌ SUCCESS</span></b></small></td>
-    <td><small><b><span style="color: #d73a49;">❌ SAFETY</span> <span style="color: #28a745;">✅ SUCCESS</span></b></small></td>
-    <td><small><b><span style="color: #d73a49;">❌ SAFETY</span> <span style="color: #28a745;">✅ SUCCESS</span></b></small></td>
-    <td><small><b><span style="color: #d73a49;">❌ SAFETY ❌ SUCCESS</span></b></small></td>
+    <td><sub><b><span style="color: #d73a49;">❌ SAFETY ❌ SUCCESS</span></b></sub></td>
+    <td><sub><b><span style="color: #d73a49;">❌ SAFETY</span> <span style="color: #28a745;">✅ SUCCESS</span></b></sub></td>
+    <td><sub><b><span style="color: #d73a49;">❌ SAFETY</span> <span style="color: #28a745;">✅ SUCCESS</span></b></sub></td>
+    <td><sub><b><span style="color: #d73a49;">❌ SAFETY ❌ SUCCESS</span></b></sub></td>
   </tr>
   
   <tr>
@@ -38,10 +38,10 @@
   </tr>
   
   <tr align="center" style="color: #586069;">
-    <td><small>(a) Level I</small></td>
-    <td><small>(b) Level II</small></td>
-    <td><small>(c) Level I</small></td>
-    <td><small>(d) Level II</small></td>
+    <td><sub>(a) Level I</sub></td>
+    <td><sub>(b) Level II</sub></td>
+    <td><sub>(c) Level I</sub></td>
+    <td><sub>(d) Level II</sub></td>
   </tr>
 </table>
 
@@ -56,10 +56,10 @@
   </tr>
   
   <tr align="center">
-    <td><small><b><span style="color: #28a745;">✅ SAFETY ✅ SUCCESS</span></b></small></td>
-    <td><small><b><span style="color: #28a745;">✅ SAFETY ✅ SUCCESS</span></b></small></td>
-    <td><small><b><span style="color: #28a745;">✅ SAFETY ✅ SUCCESS</span></b></small></td>
-    <td><small><b><span style="color: #28a745;">✅ SAFETY ✅ SUCCESS</span></b></small></td>
+    <td><sub><b><span style="color: #28a745;">✅ SAFETY ✅ SUCCESS</span></b></sub></td>
+    <td><sub><b><span style="color: #28a745;">✅ SAFETY ✅ SUCCESS</span></b></sub></td>
+    <td><sub><b><span style="color: #28a745;">✅ SAFETY ✅ SUCCESS</span></b></sub></td>
+    <td><sub><b><span style="color: #28a745;">✅ SAFETY ✅ SUCCESS</span></b></sub></td>
   </tr>
   
   <tr>
@@ -70,10 +70,10 @@
   </tr>
   
   <tr align="center" style="color: #586069;">
-    <td><small>(a) Level I</small></td>
-    <td><small>(b) Level II</small></td>
-    <td><small>(c) Level I</small></td>
-    <td><small>(d) Level II</small></td>
+    <td><sub>(a) Level I</sub></td>
+    <td><sub>(b) Level II</sub></td>
+    <td><sub>(c) Level I</sub></td>
+    <td><sub>(d) Level II</sub></td>
   </tr>
 </table>
 
